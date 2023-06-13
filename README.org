@@ -1,0 +1,10 @@
+* quickdist
+
+Create a Quicklisp distribution from a directory of local projects.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/orivej/quickdist.git   |
+| commit  | 2c3f41c  |
+| systems | quickdist |
+|---------+-------------------------------------------|
+
